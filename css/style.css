@@ -2,13 +2,14 @@
 
 Project Name: Cookie Monster 
 Client: Cookie Monster
-Author: Emerson-CJ
-
+Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
+Developed @ One Month in NYC 
 
 */
 
 body {
 	background: url("../images/cookie-monster.jpg");
+	
 	/*background: url('../images/cookie-monster.jpg');*/
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
@@ -25,14 +26,19 @@ body {
 	padding: 15px;
 }
 h1 {
-	font-size: 80px;
+	font-size: 90px;
 }
 h2{
 	background: #75c1f6;
 	color: black;
 	padding: 5px;
 	border-radius: 5px;
+	font-size: 29px;
 }
+p{
+	font-size: 24px;
+}
+
 a{
 	color: #75c1f6;
 	text-decoration: none;
